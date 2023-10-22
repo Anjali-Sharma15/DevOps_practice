@@ -1,0 +1,2 @@
+bug1 program
+verify bug1
